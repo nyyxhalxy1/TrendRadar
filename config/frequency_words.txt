@@ -21,7 +21,7 @@ Multimodal AI
 
 强化学习
 Reinforcement Learning
-自监督学习
+监督学习
 Self-supervised Learning
 神经符号
 Neuro-Symbolic
@@ -97,33 +97,3 @@ No-Code/Low-Code
 边缘计算
 Edge Computing
 Decentralized
-
-政策
-改革
-人事变动
-宏观调控
-十四五
-Policy
-
-地缘政治
-国际关系
-峰会
-外交
-制裁
-贸易协定
-
-央行
-利率
-通胀
-汇率
-财政刺激
-Central Bank
-
-GDP
-股市
-供应链
-大宗商品
-科技股
-Stock Market
-
-
