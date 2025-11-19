@@ -1,113 +1,157 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
+大语言模型
+LLM
+扩散模型
+Transformer
+MoE
+Large Language Model
+Diffusion Model
+Foundation Model
+MoE (Mixture of Experts)
+通用人工智能
+AGI
+具身智能
+世界模型
+AGI (Artificial General Intelligence)
+Embodied AI
+World Model
+Reasoning
+强化学习
+自监督学习
+多模态
+生成式AI
+神经符号
+Reinforcement Learning
+Self-supervised Learning
+Multimodal AI
+Generative AI
+Neuro-Symbolic
+DeepMind
+OpenAI
+Google Brain
+Meta AI
 Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+ICLR
+NeurIPS
+ICML
+ArXiv
+预训练
+模糊测试
+覆盖率引导
+结构感知
+变异策略
+Fuzzing
+Coverage-Guided Fuzzing
+Structure-Aware Fuzzing
+Mutation Strategy
+AFL
+libFuzzer
+Honggfuzz
+TLA
+OSS-Fuzz
+American Fuzzy Lop
+Sanitizer
+Syzkaller
+漏洞发现
+零日漏洞
+固件安全
+协议模糊测试
+IoT 安全
+Zero-Day Vulnerability
+Firmware Fuzzing
+Protocol Fuzzing
+IoT Security
+AI Fuzzing
+机器学习模糊测试
+自动漏洞利用
+AI-Assisted Fuzzing
+Machine Learning for Fuzzing
+Exploit Generation
+新品发布
+预告
+科技展会
+独家首发
+众筹
+Product Launch
+Unveiling
+Tech Conference
+Kickstarter
+Pre-order
+开源项目
+GitHub Trending
+Star 破万
+Rust
+Golang
+WebAssembly
+Open Source Project
+New Library
+GitHub Trending
+Rust
+WASM
+市场趋势
+突破性技术
+颠覆性创新
+技术栈更新
+Market Trend
+Breakthrough Technology
+Disruptive Innovation
+Tech Stack
+SaaS 工具
+DevTools
+No-Code/Low-Code
+边缘计算
+SaaS (Software as a Service)
+Developer Tools
+Edge Computing
+Decentralized
+政策
+改革
+人事变动
+立法
+宏观调控
+十四五
+Policy
+Reform
+Personnel Change
+Legislation
+Macro Control
+14th Five-Year Plan
+地缘政治
+国际关系
+峰会
+外交
+制裁
+贸易协定
+联合国
+Geopolitics
+International Relations
+Summit
+Diplomacy
+Sanctions
+Trade Agreement
+United Nations
+央行
+利率
+通胀
+GDP
+股市
+汇率
+财政刺激
+Central Bank
+Interest Rate
+Inflation
+GDP (Gross Domestic Product)
+Stock Market
+Exchange Rate
+Fiscal Stimulus
+供应链
+能源价格
+大宗商品
+新兴市场
+消费数据
+科技股
+Supply Chain
+Energy Price
+Commodities
+Emerging Markets
+Consumer Data
+Tech Stocks
